@@ -3,4 +3,4 @@ Creating a simple neural network for the MNIST data set utilizing only numpy - c
 
 Used to familiarize myself with neural networks and how they work 
 
-### Data Analyzation coming soon...###
+### Data Analyzation coming soon...
